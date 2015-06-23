@@ -3,5 +3,5 @@ optional
 La la la la laaaaaa, I'm making changes!!
 Sean is making changes here.
 Sean is awesome but can't type
-No, I'm more awesome.'
-
+easier than Nano
+no way
